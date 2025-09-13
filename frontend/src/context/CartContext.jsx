@@ -5,38 +5,30 @@ export const CartContext = createContext();
 export const CartProvider = ({ children }) => {
   const [cart, setCart] = useState([]);
 
-  // Add item to cart
-  const addToCart = (item) => {
-    setCart(prevCart => {
-      const existing = prevCart.find(i => i.id === item.id);
+  // Add item or increase qty
+  const addToCart = (item, qty = 1) => {
+    setCart(prev => {
+      const existing = prev.find(i => i.id === item.id);
       if (existing) {
-        return prevCart.map(i =>
-          i.id === item.id ? { ...i, qty: i.qty + 1 } : i
+        return prev.map(i =>
+          i.id === item.id ? { ...i, qty: i.qty + qty } : i
         );
       } else {
-        return [...prevCart, { ...item, qty: 1 }];
+        return [...prev, { ...item, qty }];
       }
     });
   };
 
-  // Remove item
-  const removeFromCart = (id) => {
-    setCart(prevCart => prevCart.filter(i => i.id !== id));
-  };
+  const removeFromCart = (id) => setCart(prev => prev.filter(i => i.id !== id));
 
-  // Clear cart
   const clearCart = () => setCart([]);
 
-  // Update quantity manually
   const updateQty = (id, qty) => {
-    if (qty < 1) return; // prevent zero or negative
-    setCart(prevCart =>
-      prevCart.map(i => (i.id === id ? { ...i, qty } : i))
-    );
+    if (qty <= 0) return removeFromCart(id);
+    setCart(prev => prev.map(i => i.id === id ? { ...i, qty } : i));
   };
 
-  // Total amount
-  const totalAmount = cart.reduce((acc, item) => acc + item.price * item.qty, 0);
+  const totalAmount = cart.reduce((sum, i) => sum + i.price * i.qty, 0);
 
   return (
     <CartContext.Provider value={{ cart, addToCart, removeFromCart, clearCart, updateQty, totalAmount }}>

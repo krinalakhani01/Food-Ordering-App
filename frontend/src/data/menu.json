@@ -1,0 +1,1490 @@
+[
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Cold Coffee",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Cold Coffee With Toping",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Cold Bournvita",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Hot Bournvita",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Espresso Coffee (HOT)",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Cold Chocolate",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Hot Chocolate",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Butter Scotch",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Black Current",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Beverages",
+    "Item Name":"Strawberry",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Soft Drink",
+    "Item Name":"Thumbsup",
+    "Price":20
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Soft Drink",
+    "Item Name":"Coke",
+    "Price":20
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Soft Drink",
+    "Item Name":"Sprite",
+    "Price":20
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Soft Drink",
+    "Item Name":"Orange",
+    "Price":25
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Soft Drink",
+    "Item Name":"Maaza",
+    "Price":25
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Soft Drink",
+    "Item Name":"Water Bottle",
+    "Price":20
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Maggie",
+    "Item Name":"Masala Maggie",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Maggie",
+    "Item Name":"Veg. Masala Maggie",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Maggie",
+    "Item Name":"Butter Maggie ",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Maggie",
+    "Item Name":"Cheese Maggie",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Maggie",
+    "Item Name":"Veg. Cheese Maggie",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Maggie",
+    "Item Name":"Garlic Butter Cheese Maggie",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Toast",
+    "Item Name":"Paneer Toast",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Toast",
+    "Item Name":"Beans Toast",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Toast",
+    "Item Name":"Cheese Chilly Toast",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Toast",
+    "Item Name":"Cheese Chilly Garlic Toast",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Toast",
+    "Item Name":"Thousand Bread",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Toast",
+    "Item Name":"Supreme Cheese Garlic Bread",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Toast",
+    "Item Name":"Masala Bread",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Toast",
+    "Item Name":"Pemium Bread",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Toast",
+    "Item Name":"Onion Garlic Cheese Toast",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Pizza",
+    "Item Name":"Margreta Pizza",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Pizza",
+    "Item Name":"Onion Capsicum Pizza",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Pizza",
+    "Item Name":"Napolitano Pizza",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Pizza",
+    "Item Name":"Mexican Pizza",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Pizza",
+    "Item Name":"Tandoori Pizza",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Pizza",
+    "Item Name":"America Pizza",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Pizza",
+    "Item Name":"Tufani Pizza",
+    "Price":130
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Pizza",
+    "Item Name":"Danny's Special Pizza",
+    "Price":130
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sp. Sandwich",
+    "Item Name":"Tandoori Grilled",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sp. Sandwich",
+    "Item Name":"Corn HI Corn Grilled",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sp. Sandwich",
+    "Item Name":"Garlic Bonanaza Grilled",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sp. Sandwich",
+    "Item Name":"Mexican Grilled",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sp. Sandwich",
+    "Item Name":"Hot & Spicey Grilled",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sp. Sandwich",
+    "Item Name":"Best Of Danny's",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sp. Sandwich",
+    "Item Name":"Italian Grilled",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sp. Sandwich",
+    "Item Name":"Danny's Special ",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Club Sandwich",
+    "Item Name":"Cheese veg. club",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Club Sandwich",
+    "Item Name":"Indian Club",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Club Sandwich",
+    "Item Name":"Euro Club",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Club Sandwich",
+    "Item Name":"House Of Cheese",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Club Sandwich",
+    "Item Name":"Tandoori Club",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Club Sandwich",
+    "Item Name":"Danny's Special Club",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Extra",
+    "Item Name":"Maxican Puff",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Extra",
+    "Item Name":"Veg. Puff",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Extra",
+    "Item Name":"Veg. Cheese Puff",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Extra",
+    "Item Name":"Cheese Garlic Puff",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Extra",
+    "Item Name":"Paneer Puff",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sandwich",
+    "Item Name":"Bread Butter",
+    "Price":30
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sandwich",
+    "Item Name":"Chatni Sandwich",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sandwich",
+    "Item Name":"Butter Jam",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sandwich",
+    "Item Name":"Cheese Chatni",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sandwich",
+    "Item Name":"Cheese Sandwich",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sandwich",
+    "Item Name":"Cheese Jam",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sandwich",
+    "Item Name":"Veg. Sandwich",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Sandwich",
+    "Item Name":"Veg. Cheese Grilled",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Panini",
+    "Item Name":"Indian Panini",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Panini",
+    "Item Name":"Maxican Panini",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Panini",
+    "Item Name":"Tandooori Panini",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Fries",
+    "Item Name":"Salted Fries",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Fries",
+    "Item Name":"Peri Peri Fries",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Danny's Caf\u00e9",
+    "Category":"Fries",
+    "Item Name":"Greated Cheese Fries",
+    "Price":130
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Coffe",
+    "Item Name":"Vanila Coffee",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Coffe",
+    "Item Name":"Hazelnut Coffee",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Coffe",
+    "Item Name":"Classic Coffee",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Coffe",
+    "Item Name":"Butterscotch Coffee",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Coffe",
+    "Item Name":"Chocolate & Mocha",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Coffe",
+    "Item Name":"Dark Wish",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Shake",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Kitkat",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Coffee",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Strawberry",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Bournvita",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Lotte Chocopie",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Red Valvet Cake",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Chocolate Cake",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Kitkat Coco",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Bournvita",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Chocolate Bournvita",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Oreo Lotte Chocopie",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Kitkat Milkshake",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Kitkat Coffee",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Kitkat Lotte Chocopie",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Kitkat Bournvita",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Lotte Chocopie",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Lotte Chocopie Coffee",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Chocolate Milkshake",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Milkshake",
+    "Item Name":"Special Shake",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Fruit Dish",
+    "Item Name":"Small",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Fruit Dish",
+    "Item Name":"Medium",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Fruit Dish",
+    "Item Name":"Jumbo",
+    "Price":130
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Pineapple kiwi",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Blueberry Mint",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Lychee Lemon",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Mango Kiwi",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Blueberry Mint",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Mint Mojito",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Litchi",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Orange",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Lemon",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Jeera Soda",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Pineapple kiwi",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Rose",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Kala Khatta",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Kachi Keri",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Guava",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Strawberry",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Pomegranate",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Kiwi",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Watermelon",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Bubblegum",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Black Current",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Green Apple",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Iceberg ",
+    "Category":"Mocktail",
+    "Item Name":"Mix",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Vadapav",
+    "Item Name":"Vadapav Plain",
+    "Price":20
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Vadapav",
+    "Item Name":"Cheese Vadapav",
+    "Price":35
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Vadapav",
+    "Item Name":"Butter Vadapav",
+    "Price":30
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Mug Pulav",
+    "Item Name":"Mug Pulav",
+    "Price":30
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Mug Pulav",
+    "Item Name":"Veg. Mug Pulav",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Mug Pulav",
+    "Item Name":"Butter Mug Pulav",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Mug Pulav",
+    "Item Name":"Veg. Pulav",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Mug Pulav",
+    "Item Name":"Bataka Paua",
+    "Price":30
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Mug Pulav",
+    "Item Name":"Samosa (3 PCS)",
+    "Price":25
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Sandwich",
+    "Item Name":"Maggi Sandwich",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Sandwich",
+    "Item Name":"Veg. Maggie Sandwich",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Sandwich",
+    "Item Name":"Veg. Cheese Maggie Sandwich",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Frenkie",
+    "Item Name":"Veg. Frenkie",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Frenkie",
+    "Item Name":"Veg. Cheese Frenkie",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Pasta",
+    "Item Name":"Red Souse Pasta",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Nestcafe",
+    "Category":"Pasta",
+    "Item Name":"Cheese Red Sous Pasta",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Hot Drinks",
+    "Item Name":"Tea",
+    "Price":20
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Hot Drinks",
+    "Item Name":"Coffee",
+    "Price":30
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Beverages",
+    "Item Name":"Cold Bournvita",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Beverages",
+    "Item Name":"Hot Bournvita",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Beverages",
+    "Item Name":"Cold Coffee",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Beverages",
+    "Item Name":"Cold Coffee With Choco Chips",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Beverages",
+    "Item Name":"Oreo Shake",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Beverages",
+    "Item Name":"Kitkat Shake",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Beverages",
+    "Item Name":"Strawberry Shake",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Beverages",
+    "Item Name":"Chocolate Milkshake",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Beverages",
+    "Item Name":"Oreo Shake With Choco Chips",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Breakfast",
+    "Item Name":"Bread Butter",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Breakfast",
+    "Item Name":"Bread Butter Jam",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Breakfast",
+    "Item Name":"Chocolate Slice",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Breakfast",
+    "Item Name":"Cheese Butter Slice",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Evergreen Snacks",
+    "Item Name":"Thepla",
+    "Price":30
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Evergreen Snacks",
+    "Item Name":"Sev Thepka",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Evergreen Snacks",
+    "Item Name":"Masala Thepla",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Evergreen Snacks",
+    "Item Name":"Cheese Thepla",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Evergreen Snacks",
+    "Item Name":"Aloo Paratha",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Evergreen Snacks",
+    "Item Name":"Cheese Aloo Paratha ",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Bhel",
+    "Item Name":"Bombay Bhel",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Bhel",
+    "Item Name":"Cheese Bhel",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Momos",
+    "Item Name":"Veg Cheese Momos",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Momos",
+    "Item Name":"Tandoori Mayo Momos",
+    "Price":130
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pasta",
+    "Item Name":"Cheese Pasta",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pasta",
+    "Item Name":"Red Sauce Pasta",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pasta",
+    "Item Name":"Cheese Garlic Pasta",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pasta",
+    "Item Name":"Mix Sauce Pasta",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pasta",
+    "Item Name":"Cheese Corn Pasta",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Potato Puff",
+    "Price":20
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Sev Puff",
+    "Price":30
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Veg Masala Puff",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Cheese Puff",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Sev Chezwan Puff",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Veg Mayo Puff",
+    "Price":40
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Butter Cheese Puff",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Cheezy Paneer Puff",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Veg Cheese Blast Puff",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Pizz Puff",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Puff",
+    "Item Name":"Cheese Chilli Puff",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Fries",
+    "Item Name":"Salted Fries",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Fries",
+    "Item Name":"Fries Masala",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Fries",
+    "Item Name":"Peri Peri Fries",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Fries",
+    "Item Name":"Cheese Masala Fries",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Fries",
+    "Item Name":"Tandoori Mayo Fries",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maggie",
+    "Item Name":"Simple Maggie",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maggie",
+    "Item Name":"Masala Maggie",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maggie",
+    "Item Name":"Veg Maggie",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maggie",
+    "Item Name":"Butter Maggie ",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maggie",
+    "Item Name":"Schezwan Maggie",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maggie",
+    "Item Name":"Cheese Maggie",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maggie",
+    "Item Name":"Cheese Corn Maggie",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maggie",
+    "Item Name":"Cheese Mayo Maggie",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maggie",
+    "Item Name":"Butter Tadka Maggie",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maxican",
+    "Item Name":"Nachos Salsa",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Maxican",
+    "Item Name":"Nachos Cheese",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Kathi Roll",
+    "Item Name":"Fusion Fire",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Kathi Roll",
+    "Item Name":"Hariyali Veg Cheese",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Kathi Roll",
+    "Item Name":"Veg Cheese Roll",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Kathi Roll",
+    "Item Name":"Vaggie D'lite",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Kathi Roll",
+    "Item Name":"Schezwan Panner",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Kathi Roll",
+    "Item Name":"Ultimate Panner",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Margerita",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Italiano",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Tandoori Pizza",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Corn Continental",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Mexican",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Double Cheese Margerita",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Paneer Paprika",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Veg Extra Vegan",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Tandoori Paneer Pizza",
+    "Price":130
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Pizza",
+    "Item Name":"Chef Sp. Cheese Blast",
+    "Price":140
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sub",
+    "Item Name":"Vaggie Subs",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sub",
+    "Item Name":"Cheesy Subs",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sub",
+    "Item Name":"Veg Exotica Sub",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sub",
+    "Item Name":"Aloo Patty Sub",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sub",
+    "Item Name":"BBQ Panner Sub",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Garlic Breads",
+    "Item Name":"Regular Garlic Bread",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Garlic Breads",
+    "Item Name":"American Corn Pepper",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Garlic Breads",
+    "Item Name":"Cheesy Jalapeno",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Red Club",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Veg. Cheese Coleslaw",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Veg. Creamy",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Chilly Cheese",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Spanish Corn",
+    "Price":90
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Veg Cheese Roasty Grill",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Chilly Garlic Cheese",
+    "Price":100
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Paneer Masala Grill",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Club Grill 3 Layer",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Tandoori Paneer Chilla",
+    "Price":120
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Sandwich",
+    "Item Name":"Tandoori Cheese Paneer Chilla",
+    "Price":130
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Burger",
+    "Item Name":"Aloo Tikki Burger",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Burger",
+    "Item Name":"Schezwan Burger",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Burger",
+    "Item Name":"Veg Cheese Burger",
+    "Price":60
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Burger",
+    "Item Name":"Masala Cheese Grill",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Burger",
+    "Item Name":"BBQ Burger",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Burger",
+    "Item Name":"Green Chilly Cheese",
+    "Price":70
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Burger",
+    "Item Name":"Paneer Chilly Cheese",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Burger",
+    "Item Name":"Paneer BBQ Cheese",
+    "Price":80
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Burger",
+    "Item Name":"Maharaja Loaded Cheese",
+    "Price":110
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Cake & Pastrie",
+    "Item Name":"Black Forest",
+    "Price":400
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Cake & Pastrie",
+    "Item Name":"Chocolate",
+    "Price":450
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Cake & Pastrie",
+    "Item Name":"Chocolate Chips",
+    "Price":450
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Cake & Pastrie",
+    "Item Name":"Chocolate Pastry",
+    "Price":50
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Combo",
+    "Item Name":"Burger Combo (Aloo Tikki Burger, Veg Cheese Burger, Fries, Coke)",
+    "Price":200
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Combo",
+    "Item Name":"Sandwich Combo (3 Layer Sandwich, Fries, Coke)",
+    "Price":210
+  },
+  {
+    "Restaurant Name":"Sweet Spot",
+    "Category":"Combo",
+    "Item Name":"Pizza Combo (Indian Pizza, Garlic Bread, Coke)",
+    "Price":230
+  }
+]

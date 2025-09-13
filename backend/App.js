@@ -9,6 +9,7 @@ const menuRouter = require('./routes/menu');
 const orderRouter = require('./routes/order');
 
 const app = express();
+app.use(express.json());
 
 // MongoDB connection
 mongoose.connect(process.env.MONGO_URI, {

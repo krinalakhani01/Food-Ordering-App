@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
+import "../styles/Auth.css";
 
 const Signup = () => {
   const navigate = useNavigate();
@@ -7,7 +8,7 @@ const Signup = () => {
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
 
-  const API_URL = import.meta.env.VITE_API_URL;
+  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
 
   const handleSignup = async (e) => {
     e.preventDefault();
@@ -18,44 +19,50 @@ const Signup = () => {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ username, password }),
       });
-      const data = await res.json();
+      const text = await res.text();
+      const data = text ? JSON.parse(text) : {};
       if (res.ok) {
         navigate("/login");
       } else {
-        setError(data.message);
+        setError(data.message || `Signup failed (${res.status})`);
       }
-    } catch {
+    } catch (err) {
       setError("Network error");
     }
   };
 
   return (
-    <div className="flex justify-center items-center h-screen">
-      <form onSubmit={handleSignup} className="p-8 border rounded shadow-md w-96">
-        <h2 className="text-2xl mb-4 font-bold text-center">Signup</h2>
-        <input
-          className="border p-2 w-full mb-3"
-          placeholder="Username"
-          value={username}
-          onChange={(e) => setUsername(e.target.value)}
-          required
-        />
-        <input
-          className="border p-2 w-full mb-3"
-          type="password"
-          placeholder="Password"
-          value={password}
-          onChange={(e) => setPassword(e.target.value)}
-          required
-        />
-        <button className="w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600" type="submit">
-          Signup
-        </button>
-        <p className="mt-3 text-center">
-          Already have an account? <Link className="text-blue-500" to="/login">Login</Link>
-        </p>
-        {error && <p className="text-red-500 mt-2">{error}</p>}
-      </form>
+    <div className="auth-hero">
+      <div className="wrapper">
+        <div className="title">Online Food Order</div>
+        <div className="subtitle">Create an account to continue</div>
+        <form onSubmit={handleSignup} className="card form" style={{ marginTop: 8 }}>
+          <input
+            className="input"
+            placeholder="Username"
+            value={username}
+            onChange={(e) => setUsername(e.target.value)}
+            required
+          />
+          <div style={{ height: 10 }} />
+          <input
+            className="input"
+            type="password"
+            placeholder="Password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+          />
+          <div style={{ height: 14 }} />
+          <button className="btn" type="submit">
+            Create account
+          </button>
+          <p className="helper" style={{ marginTop: 12 }}>
+            Already have an account? <Link to="/login">Login</Link>
+          </p>
+          {error && <p style={{ color: "#ef4444", marginTop: 8 }}>{error}</p>}
+        </form>
+      </div>
     </div>
   );
 };

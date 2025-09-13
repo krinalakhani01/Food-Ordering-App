@@ -1,45 +1,36 @@
-// routes/order.js
 const express = require('express');
-const router = express.Router(); // ✅ Define router
-const Order = require('../models/Order'); // make sure this path is correct
+const router = express.Router();
+const Order = require('../models/Order');
 
 // Place order
 router.post('/', async (req, res) => {
   try {
     const { username, items } = req.body;
-
     if (!username || !items || !Array.isArray(items) || items.length === 0) {
-      return res.status(400).json({ message: 'Username and items are required' });
+      return res.status(400).json({ message: "Username and items are required" });
     }
 
-    console.log("Received order:", req.body); // 🟢 Debug log
+    const totalAmount = items.reduce((sum, i) => sum + i.price * i.qty, 0);
 
-    // Calculate total safely
-    const totalAmount = items.reduce((sum, item) => {
-      const price = Number(item.price) || 0;
-      const qty = Number(item.quantity) || 1;
-      return sum + price * qty;
-    }, 0);
+    const newOrder = new Order({ username, items, totalAmount });
+    const savedOrder = await newOrder.save();
 
-    const newOrder = new Order({
-      username,
-      items,
-      totalAmount,
-      status: 'Pending',
-    });
-
-    await newOrder.save();
-
-    res.status(201).json({
-      message: 'Order placed successfully',
-      orderId: newOrder._id,
-      status: newOrder.status,
-      totalAmount: newOrder.totalAmount,
-    });
+    res.status(201).json({ message: "Order placed successfully", order: savedOrder });
   } catch (err) {
-    console.error("❌ Order save failed:", err); // 🟢 Debug log
-    res.status(500).json({ message: 'Failed to place order', error: err.message });
+    console.error(err);
+    res.status(500).json({ message: "Failed to place order" });
   }
 });
 
-module.exports = router; // ✅ Export router
+// Get all orders
+router.get('/', async (req, res) => {
+  try {
+    const orders = await Order.find();
+    res.json(orders);
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ message: "Failed to fetch orders" });
+  }
+});
+
+module.exports = router;

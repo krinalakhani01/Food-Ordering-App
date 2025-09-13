@@ -1,6 +1,7 @@
 import React, { useState, useContext } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { AuthContext } from "../context/AuthContext";
+import "../styles/Auth.css";
 
 const Login = () => {
   const { login } = useContext(AuthContext);
@@ -9,7 +10,7 @@ const Login = () => {
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
 
-  const API_URL = import.meta.env.VITE_API_URL;
+  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
   const handleLogin = async (e) => {
     e.preventDefault();
     setError("");
@@ -19,45 +20,51 @@ const Login = () => {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ username, password }),
       });
-      const data = await res.json();
+      const text = await res.text();
+      const data = text ? JSON.parse(text) : {};
       if (res.ok) {
         login(data.username, data.token);
-        navigate("/menu");
+        navigate("/restaurants");
       } else {
-        setError(data.message);
+        setError(data.message || `Login failed (${res.status})`);
       }
-    } catch {
+    } catch (err) {
       setError("Network error");
     }
   };
 
   return (
-    <div className="flex justify-center items-center h-screen">
-      <form onSubmit={handleLogin} className="p-8 border rounded shadow-md w-96">
-        <h2 className="text-2xl mb-4 font-bold text-center">Login</h2>
-        <input
-          className="border p-2 w-full mb-3"
-          placeholder="Username"
-          value={username}
-          onChange={(e) => setUsername(e.target.value)}
-          required
-        />
-        <input
-          className="border p-2 w-full mb-3"
-          type="password"
-          placeholder="Password"
-          value={password}
-          onChange={(e) => setPassword(e.target.value)}
-          required
-        />
-        <button className="w-full bg-green-500 text-white p-2 rounded hover:bg-green-600" type="submit">
-          Login
-        </button>
-        <p className="mt-3 text-center">
-          Don't have an account? <Link className="text-blue-500" to="/signup">Signup</Link>
-        </p>
-        {error && <p className="text-red-500 mt-2">{error}</p>}
-      </form>
+    <div className="auth-hero">
+      <div className="wrapper">
+        <div className="title">Online Food Order</div>
+        <div className="subtitle">Welcome back! Please sign in.</div>
+        <form onSubmit={handleLogin} className="card form" style={{ marginTop: 8 }}>
+          <input
+            className="input"
+            placeholder="Username"
+            value={username}
+            onChange={(e) => setUsername(e.target.value)}
+            required
+          />
+          <div style={{ height: 10 }} />
+          <input
+            className="input"
+            type="password"
+            placeholder="Password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+          />
+          <div style={{ height: 14 }} />
+          <button className="btn" type="submit">
+            Sign in
+          </button>
+          <p className="helper" style={{ marginTop: 12 }}>
+            Don't have an account? <Link to="/signup">Signup</Link>
+          </p>
+          {error && <p style={{ color: "#ef4444", marginTop: 8 }}>{error}</p>}
+        </form>
+      </div>
     </div>
   );
 };
